@@ -1,12 +1,12 @@
 @import url(/styles/apresentacao.css);
-@import url
+@import url(/styles/apresentacao.css);
 
 :root{
 --cor-principal: #cb6ce6;
 --cor-claro: #FFBFFF;
---cor-roxa:# 9236AE;
---cor-roxaa:
+--cor-roxa:#9236AE;
+--cor-roxaa:#3A005A;
 --cor-pretro: #000000;
---cor-branco: #fff
+--cor-branco: #fff;
     
 }
